@@ -3,12 +3,10 @@
 ###
 
 <p align="left">📚 Engenharia de Software - UNDF</p>
-<p align="left">💻 UnDTech</p>
-
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=js,java,spring,python,react,docker,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,java,spring,python,react,next,docker, )](https://skillicons.dev)
 
 
 ###
